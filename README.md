@@ -1,2 +1,9 @@
-# easy-dotfiles-helper-61
-A simple dotfiles project
+# Dotfiles
+
+A simple dotfiles project.
+\n
+## Getting Started
+
+```bash
+python dotfiles.py
+```
